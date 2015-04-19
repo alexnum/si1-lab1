@@ -1,1 +1,1 @@
-Esse repositorio tem as parada tudo do lab1
+Esse repositorio tem o que é necessario no lab1
